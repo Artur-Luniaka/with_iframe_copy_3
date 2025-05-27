@@ -1,0 +1,106 @@
+/* Additional base styles specific to the game theme */
+
+/* Loading animations */
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+}
+
+.loading::after {
+    content: '🔄';
+    font-size: 2rem;
+    animation: rotate 1s linear infinite;
+}
+
+/* Game-themed elements */
+.rotation-icon {
+    display: inline-block;
+    animation: rotate 3s linear infinite;
+}
+
+.escape-highlight {
+    background: var(--accent-gradient);
+    padding: 2px 6px;
+    border-radius: 4px;
+    color: var(--dark-color);
+    font-weight: bold;
+}
+
+/* Card styles */
+.card {
+    background: white;
+    border-radius: var(--border-radius-lg);
+    box-shadow: var(--box-shadow);
+    padding: var(--spacing-lg);
+    transition: all var(--transition-normal);
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--box-shadow-lg);
+}
+
+/* Grid layouts using flexbox */
+.flex-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-lg);
+}
+
+.flex-grid-item {
+    flex: 1;
+    min-width: 300px;
+}
+
+@media (max-width: 768px) {
+    .flex-grid-item {
+        min-width: 100%;
+    }
+}
+
+/* Form styles */
+.form-group {
+    margin-bottom: var(--spacing-md);
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: var(--spacing-xs);
+    font-weight: bold;
+    color: var(--text-color);
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: var(--spacing-sm);
+    border: 2px solid var(--border-color);
+    border-radius: var(--border-radius);
+    font-size: var(--font-size-base);
+    transition: border-color var(--transition-fast);
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--primary-color);
+}
+
+/* Status messages */
+.success-message {
+    background-color: var(--success-color);
+    color: white;
+    padding: var(--spacing-sm);
+    border-radius: var(--border-radius);
+    margin-bottom: var(--spacing-md);
+}
+
+.error-message {
+    background-color: var(--danger-color);
+    color: white;
+    padding: var(--spacing-sm);
+    border-radius: var(--border-radius);
+    margin-bottom: var(--spacing-md);
+}

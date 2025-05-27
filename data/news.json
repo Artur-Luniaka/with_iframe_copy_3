@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "Street News - Gangsta Duel Reports",
+    "description": "Catch the latest updates, underground news, and spotlight stories from the gritty world of Gangsta Duel."
+  },
+  "pageTitle": "Street News",
+  "pageSubtitle": "Fresh updates and underground buzz from the world of Gangsta Duel",
+  "articles": [
+    {
+      "id": 1,
+      "title": "New Arsenal Drop: 50 Fresh Weapons Unleashed!",
+      "excerpt": "The armory just got stacked! Unlock 50 new weapons with deadly combos, slick animations, and tactical advantages to dominate the streets.",
+      "content": "Full article content here...",
+      "image": "./img/news-1.png",
+      "category": "Updates",
+      "date": "2024-01-15",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Legend Spotlight: Player Sets New Duel Record",
+      "excerpt": "Player 'G_DuelistX' crushed the leaderboard, winning 100 street fights in under 60 minutes! Watch the replays and check their elite tactics.",
+      "content": "Full article content here...",
+      "image": "./img/news-2.png",
+      "category": "Community",
+      "date": "2024-01-12"
+    },
+    {
+      "id": 3,
+      "title": "Behind the Streets: Building the Gangsta Duel World",
+      "excerpt": "Go behind the scenes with our lead devs and discover how urban chaos meets game design. From alleyways to arsenals, here’s how we built the vibe.",
+      "content": "Full article content here...",
+      "image": "./img/news-3.png",
+      "category": "Development",
+      "date": "2024-01-10"
+    },
+    {
+      "id": 4,
+      "title": "Mobile Turf Wars: Gangsta Duel Goes Portable",
+      "excerpt": "Get ready to brawl on the go. The mobile version of Gangsta Duel is almost here, optimized for touch controls and street-ready performance.",
+      "content": "Full article content here...",
+      "image": "./img/news-4.png",
+      "category": "Announcements",
+      "date": "2024-01-08"
+    },
+    {
+      "id": 5,
+      "title": "Pro Moves: Mastering Duel Mechanics",
+      "excerpt": "Want to fight like the legends? This guide reveals advanced duel techniques, dodge-timing tips, and strategy layers that separate rookies from gangstas.",
+      "content": "Full article content here...",
+      "image": "./img/news-5.png",
+      "category": "Guides",
+      "date": "2024-01-05"
+    },
+    {
+      "id": 6,
+      "title": "Holiday Heat: Festive Fight Nights Are Live",
+      "excerpt": "Celebrate with street flair! Limited-time holiday challenges bring new styles, themed gear, and exclusive seasonal rewards to heat up your duel nights.",
+      "content": "Full article content here...",
+      "image": "./img/news-6.png",
+      "category": "Events",
+      "date": "2024-01-03"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "Gangsta Duel - Enter the Ultimate Street Showdown",
+    "description": "Dive into the gritty world of Gangsta Duel – a fierce 2-player shooter where reflexes, tactics, and timing are your weapons to survive."
+  },
+  "hero": {
+    "title": "Lock, Load, and Duel",
+    "description": "Step into Gangsta Duel – where every bullet counts and every move can be your last. Are you fast enough to survive the streets?"
+  },
+  "sections": {
+    "welcome": {
+      "title": "Welcome to Gangsta Duel",
+      "content": "<p>Enter a brutal urban battlefield where <span class='escape-highlight'>every shot is do or die</span>. Gangsta Duel is a high-stakes shooter that puts your reflexes and aim to the ultimate test.</p><p>Choose your gangster, grab your weapon, and face off in intense duels packed with adrenaline. With gritty pixel-art visuals and unpredictable action, Gangsta Duel brings classic street battles back in style.</p><div class='flex-grid'><div class='flex-grid-item card'><h3><span class='rotation-icon'>🔫</span> Fierce Duels</h3><p>Face your friend or the AI in fast-paced one-on-one shootouts where only the sharpest shooter survives.</p></div><div class='flex-grid-item card'><h3><span class='rotation-icon'>🔥</span> Explosive Action</h3><p>Dive into chaotic matches filled with bullets, power-ups, and explosive street warfare.</p></div></div>"
+    },
+    "howToPlay": {
+      "title": "How to Duel",
+      "content": "<div class='flex-grid'><div class='flex-grid-item'><h3>🎯 Objective</h3><p>Defeat your opponent in a series of fast-paced shootouts. First to win multiple rounds becomes the true street champion!</p></div><div class='flex-grid-item'><h3>🎮 Controls</h3><p>Player 1 and Player 2 have separate keys to move and shoot. Time your shots and dodge enemy fire to survive each round.</p></div><div class='flex-grid-item'><h3>⏱️ Quick Reflexes</h3><p>React fast and shoot first – even a moment of hesitation can cost you the round.</p></div><div class='flex-grid-item'><h3>🏆 Scoring</h3><p>Win rounds by eliminating your opponent. The more rounds you win, the closer you are to total domination.</p></div></div>"
+    },
+    "rotationTactics": {
+      "title": "Duel Tactics",
+      "content": "<p>Sharpen your edge with these street-smart strategies:</p><div class='tactics-grid'><div class='tactic-item'><span class='tactic-icon'>🎯</span><h3>Time Your Shots</h3><p>Don’t just mash the trigger. Wait for the perfect moment to fire and land the hit.</p></div><div class='tactic-item'><span class='tactic-icon'>🛡️</span><h3>Use Cover</h3><p>Hide behind objects to dodge enemy fire and surprise your opponent when they least expect it.</p></div><div class='tactic-item'><span class='tactic-icon'>⚡</span><h3>Strike Fast</h3><p>Speed is survival. React quickly to your rival's moves to gain the upper hand.</p></div><div class='tactic-item'><span class='tactic-icon'>🤜</span><h3>Know Your Rival</h3><p>Watch how your opponent plays and adapt your strategy to outgun them.</p></div></div>"
+    },
+    "trapsTimers": {
+      "title": "Hazards & Chaos",
+      "content": "<p>The street doesn't play fair – stay sharp in every duel:</p><div class='traps-grid'><div class='trap-item'><span class='trap-icon'>💣</span><h3>Explosive Environments</h3><p>Watch out for barrels and hazards that can turn the tide of battle instantly.</p></div><div class='trap-item'><span class='trap-icon'>🔐</span><h3>Limited Ammo</h3><p>Make every bullet count – missing could leave you wide open.</p></div><div class='trap-item'><span class='trap-icon'>🌀</span><h3>Sudden Power-Ups</h3><p>Keep an eye out for boosts that can change everything in a flash.</p></div><div class='trap-item'><span class='trap-icon'>🚀</span><h3>Random Chaos</h3><p>Unpredictable events keep every duel fresh and intense. Stay ready for anything.</p></div></div>"
+    },
+    "escapeChallenge": {
+      "title": "Street Challenge",
+      "content": "<p>Think you're the fastest gun in the city? Prove it in Gangsta Duel – available right here in your browser.</p><p>Grab a friend or face off against the CPU and show everyone who really runs these streets.</p>"
+    }
+  },
+  "reviews": [
+    {
+      "name": "Sarah Chen",
+      "rating": 5,
+      "text": "Incredible fun! The 2-player mode is pure chaos and laughs. Me and my brother can't stop playing!"
+    },
+    {
+      "name": "Marcus Rodriguez",
+      "rating": 5,
+      "text": "Feels like an old-school arcade battle with modern twists. Every round is unpredictable and exciting."
+    },
+    {
+      "name": "Emma Thompson",
+      "rating": 4,
+      "text": "Great duel mechanics and fast gameplay. It’s super competitive and really fun with friends."
+    },
+    {
+      "name": "David Kim",
+      "rating": 5,
+      "text": "Pixel graphics + quickfire duels = perfect combo. Super satisfying every time I win a round."
+    },
+    {
+      "name": "Lisa Johnson",
+      "rating": 4,
+      "text": "Love the pacing and intensity. Would be cool to see more characters or guns, but already very fun!"
+    },
+    {
+      "name": "Alex Parker",
+      "rating": 5,
+      "text": "Never thought I'd enjoy a 2D shooter this much. Totally addictive, especially in multiplayer."
+    }
+  ],
+  "gameUrl": "https://html5.gamemonetize.co/jxa2s8trml82jl1c2p52en3neqrob1b1/"
+}
